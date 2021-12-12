@@ -25,7 +25,7 @@ I would aim for a funding goal of somewhere under $5000 the success rate appears
  
 
 Launch Duration:
-Bearing in mind that you have a time limit in reaching your goal, you will need to balance between keeping the project open too long, where there is some initial excitement which then fall, or too short in which case not enough time has been allotted for people to know about and fund your project. I have included below a graph and table of Outcomes in correlation with Launch duration below. Currently the maximum launch duration is 60 days this was changed in 2011[6](https://www.kickstarter.com/blog/shortening-the-maximum-project-length?ref=pbuild_basics)
+Bearing in mind that you have a time limit in reaching your goal, you will need to balance between keeping the project open too long, where there is some initial excitement which then fall, or too short in which case not enough time has been allotted for people to know about and fund your project. I have included in the Play Outcome by Launch Duration tab of the Kickstarter Challenge spreadseet a graph and table of Outcomes in correlation with Launch duration below. Currently the maximum launch duration is 60 days this was changed in 2011 [6](https://www.kickstarter.com/blog/shortening-the-maximum-project-length?ref=pbuild_basics)
 
  
  
