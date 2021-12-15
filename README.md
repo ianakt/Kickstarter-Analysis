@@ -16,16 +16,22 @@ My Recommendations:
 Launch Date: 
 I would suggest that you start your launch for between April and July, preferably May. See the graph  Theatre Outcomes by Launch Date. The graph is based on Kickstarter data collected between 2009 and 2017
 
+![Theatre Outcomes by Launch](https://github.com/ianakt/Kickstarter-Analysis/blob/main/Resources/Theatre_Outcomes_vs_Launch.png?raw=true)
+
  
 
 Funding Goal: 
 I would aim for a funding goal of somewhere under $5000 the success rate appears to hover around 73 to 76 %, Please look at Outcomes based on Goals. Although there are some successful plays between the $35000 to $45000 which are successful, they are relatively few as compared to the under $5000.
+
+![Outcomes v Goals](https://github.com/ianakt/Kickstarter-Analysis/blob/main/Resources/Outcomes_v_Goals.png?raw=true)
  
 
  
 
 Launch Duration:
 Bearing in mind that you have a time limit in reaching your goal, you will need to balance between keeping the project open too long, where there is some initial excitement which then fall, or too short in which case not enough time has been allotted for people to know about and fund your project. I have included in the Play Outcome by Launch Duration tab of the Kickstarter Challenge spreadseet a graph and table of Outcomes in correlation with Launch duration below. Currently the maximum launch duration is 60 days this was changed in 2011 [6](https://www.kickstarter.com/blog/shortening-the-maximum-project-length?ref=pbuild_basics)
+
+![Launch Duration and Outcome](https://github.com/ianakt/Kickstarter-Analysis/blob/main/Resources/Outcomes%20by%20Duration.png?raw=true)
 
  
  
