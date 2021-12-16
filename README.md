@@ -40,6 +40,9 @@ Bearing in mind that you have a time limit in reaching your goal, you will need 
 
 ![Launch Duration and Outcome](https://github.com/ianakt/Kickstarter-Analysis/blob/main/Resources/Outcomes%20by%20Duration.png?raw=true)
 
+![image](https://user-images.githubusercontent.com/68198233/146455759-da2a9413-39b0-4192-a9a9-72247577e70d.png)
+
+
 Something I would love to include is the effect of project updates and rewards on goal funded. Kickstarter reccomends this however, I don't have data collected, something to keep in mind.
 
 In summary it appears ideal to have have play with a budget of less than 45000 with a launch duration of 3 to 5 weeks, with a Project Launch starting between April and July.
