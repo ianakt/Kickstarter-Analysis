@@ -27,18 +27,7 @@ I would aim for a funding goal of somewhere under $5000 the success rate appears
 
 ![Outcomes v Goals](https://github.com/ianakt/Kickstarter-Analysis/blob/main/Resources/Outcomes_v_Goals.png?raw=true) 
 Goal	Number Successful	Number Failed	Number Cancelled	Total Projects	Percentage Successful	Percentage Failed	Percentage Cancelled
-Less than 1000	141	45	0	186	76%	24%	0%
-1000 to 4999	387	146	0	533	73%	27%	0%
-5000 to 9999	93	76	0	169	55%	45%	0%
-10000 to 14999	39	33	0	72	54%	46%	0%
-15000 to 19999	12	12	0	24	50%	50%	0%
-20000 to 24999	9	11	0	20	45%	55%	0%
-25000 to 29999	1	4	0	5	20%	80%	0%
-30000 to 34999	3	8	0	11	27%	73%	0%
-35000 to 39999	4	2	0	6	67%	33%	0%
-40000 to 44999	2	1	0	3	67%	33%	0%
-45000 to 49999	0	1	0	1	0%	100%	0%
-Greater than 50000	2	10	0	12	17%	83%	0%
+
 ![image](https://user-images.githubusercontent.com/68198233/146455503-33565af3-8c60-4b3b-9fc8-a0b9b1a51b3d.png)
 
 
